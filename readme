@@ -1,0 +1,27 @@
+# Site — Consciência Negra
+
+Site simples em página única abordando a importância da Consciência Negra no Brasil.  
+Inclui seções sobre contexto histórico, cultura, resistência, personalidades importantes e um espaço para contatos.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## Estrutura
+- `index.html` — página única com todo o conteúdo
+- `style.css` — estilos do site
+- `script.js` — lógica simples para interação (ex.: área de contatos)
+
+## Como usar
+Abra o arquivo `index.html` direto no navegador.
+
+## Deploy no GitHub Pages
+1. Envie todos os arquivos para o GitHub.  
+2. Acesse **Settings → Pages**.  
+3. Em **Source**, selecione **main** e a pasta raiz.  
+4. Salve.  
+O link do site aparece na mesma tela.
+
+## Licença
+MIT.
