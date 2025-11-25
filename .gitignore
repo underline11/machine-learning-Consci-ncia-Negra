@@ -1,0 +1,18 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.tmp
+
+# Node (se usar um dia)
+node_modules/
+
+# Builds
+dist/
+build/
